@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 76a847312a772c84184f08dfebec0e09
+timeCreated: 1509557225
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Demon Sker
+  fontNames:
+  - Demon Sker
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
